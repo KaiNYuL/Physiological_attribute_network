@@ -1,1 +1,2 @@
 Here are some of the extracted feature attribute files categorized by emotion, as well as the original feature files for classifying and scoring feature attributes using ReliefF. Also included here are the Matlab code for ReliefF and the R code for attribute network construction and network comparison.
+DOI:DOI: 10.5281/zenodo.18310520
